@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EhPBlimLcwz+Axh/0/FZyLiecNbDIeMQw+7cUoNir7c34Iyz8F1BzHIBAPm/Fct/IJtnRKN1eFKtFB0yuAgPxA==",
+  "dgSpecHash": "OPBXYILWyockejMOGLPrmeHa0LP7TkVQgDVdh2IPnij3XLmizSbUUj/8x5P9b0hScisPrn1OgUeE/JXR3NXUtg==",
   "success": true,
   "projectFilePath": "C:\\_Cursos\\_blazor\\shop\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\10132427\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10132427\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\10132427\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
